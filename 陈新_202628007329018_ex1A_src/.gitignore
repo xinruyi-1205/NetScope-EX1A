@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+.idea/
+*.log
+*.csv
+captures/
+# Generated offline demo file can be regenerated from source.
+demo_packets.pcap
